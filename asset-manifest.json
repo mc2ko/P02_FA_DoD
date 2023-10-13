@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/P02_FA_DoD/static/css/main.6972f23a.css",
-    "main.js": "/P02_FA_DoD/static/js/main.26996553.js",
+    "main.js": "/P02_FA_DoD/static/js/main.6030c0e1.js",
     "static/media/background_image.jpg": "/P02_FA_DoD/static/media/background_image.36c9d7c3aae6596a785f.jpg",
     "static/media/mainTitle.png": "/P02_FA_DoD/static/media/mainTitle.5c1f0647038a5906ceec.png",
     "static/media/tree.png": "/P02_FA_DoD/static/media/tree.393dfc3e284e35e3d746.png",
@@ -13,10 +13,10 @@
     "static/media/frodo_body_ani02.png": "/P02_FA_DoD/static/media/frodo_body_ani02.1113e8876cb033d3fb41.png",
     "index.html": "/P02_FA_DoD/index.html",
     "main.6972f23a.css.map": "/P02_FA_DoD/static/css/main.6972f23a.css.map",
-    "main.26996553.js.map": "/P02_FA_DoD/static/js/main.26996553.js.map"
+    "main.6030c0e1.js.map": "/P02_FA_DoD/static/js/main.6030c0e1.js.map"
   },
   "entrypoints": [
     "static/css/main.6972f23a.css",
-    "static/js/main.26996553.js"
+    "static/js/main.6030c0e1.js"
   ]
 }
