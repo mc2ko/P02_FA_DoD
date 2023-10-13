@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+@keyframes scaleANI {
+	0% {
+		scale: 0%;
+	}
+	90% {
+		scale: 110%;
+	}
+	100% {
+		scale: 100%;
+	}
+}
+
+@keyframes scrollLeftANI {
+	0% {
+		left: 40%;
+	}
+	100% {
+		left: 0%;
+	}
+}
+
+@keyframes scrollRightANI {
+	0% {
+		right: 40%;
+	}
+	100% {
+		right: 0%;
+	}
+}
+
+@keyframes scrollANI {
+	0% {
+		width: 10%;
+	}
+	100% {
+		width: 90%;
+	}
+}
